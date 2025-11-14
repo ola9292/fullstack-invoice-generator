@@ -6,7 +6,7 @@ Invoice Generator Pro is a simple yet powerful tool designed to help freelancers
 
 ## Motivation
 
-As a freelancer myself, I know how tedious and time-consuming invoice creation can be. Invoice Generator Pro was born from that frustration - a practical solution to eliminate the hassle of complex accounting software. Using my expertise in web development, I created this app to help others manage their invoicing with ease, so you can focus on what matters most: doing great work and growing your business.
+As a freelancer myself, I know how tedious and time-consuming invoice creation can be. Invoice Generator Pro was born from that frustration. a practical solution to eliminate the hassle of complex accounting software. Using my expertise in web development, I created this app to help others manage their invoicing with ease, so you can focus on what matters most: doing great work and growing your business.
 
 ## Screenshot
 
